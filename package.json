@@ -1,0 +1,19 @@
+{
+  "name": "gulp-ractive",
+  "description": "Parse Ractive templates",
+  "version": "0.1.0",
+  "homepage": "http://github.com/kalprestito/gulp-ractive",
+  "repository": "git://github.com/kalprestito/gulp-ractive.git",
+  "author": "Carlos Precioso (http://www.github.com/kalprestito)",
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "license": "Public Domain",
+  "dependencies": {
+    "event-stream": "~3.1.0",
+    "gulp-util": "~2.2.14",
+    "ractive": "~0.3.9"
+  },
+  "devDependencies": {}
+}
